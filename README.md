@@ -1,2 +1,2 @@
 # data-api
-API serving differnet kinds of data 
+Restful microservice exposing stateless data
